@@ -11,7 +11,7 @@ int main()
 	cout << "What is your age?" << endl;
 	cin >> age;
 
-	cout << "What is your height" << endl;
+	cout << "What is your height in centimeters?" << endl;
 	cin >> height;
 
 	if (age >= 14 && height >= 130) {
